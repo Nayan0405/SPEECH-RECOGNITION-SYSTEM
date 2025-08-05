@@ -38,3 +38,4 @@ Anomaly detection in time series data
 Chatbots and virtual assistants
 
 #OUTPUT:
+![Image](https://github.com/user-attachments/assets/c0f56c5d-c0f0-48b2-a27b-bb037f5d594d)
